@@ -107,7 +107,6 @@
 
 ## 🚀 My Coding Profiles
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Subas_mk)
 ---
 ![LeetCode Heatmap](https://leetcard.jacoblin.cool/Subas_mk?theme=dark&ext=activity)
 ## ❤️ Support Me
