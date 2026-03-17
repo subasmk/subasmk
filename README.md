@@ -107,8 +107,6 @@
 
 ## 🚀 My Coding Profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Subas_mk/)
-
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Subas_mk)
 ---
 ![LeetCode Heatmap](https://leetcard.jacoblin.cool/Subas_mk?theme=dark&ext=activity)
