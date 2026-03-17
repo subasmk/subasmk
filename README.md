@@ -1,118 +1,98 @@
-<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
+<!-- 🔥 Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,100:FF5F1F&height=220&section=header&text=Subash%20M&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
-<h1 align="left">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
-  Hi, I'm <strong>Subash M</strong>
-</h1>
-
-<h3>AI&DS Student | • Python</h3>
-
-<div align="left">
-  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
-
-  <p>
-    I'm a AI&DS Student who loves to learn everything and be a best version of myself,I am confident in my learning skills  
-  </p>
-
-  <p>
-    <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:mksubash2809@gmail.com"><img src="https://img.shields.io/badge/📧_mksubash2809@gmail.com-1e1e2e?style=for-the-badge" /></a>
-    <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Web_Development)-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🥷_Vigilante_(Secret)-1e1e2e?style=for-the-badge" />
-  </p>
-
-<h3>🌐 Socials</h3>
-  
-<p align="left">
- 
-
-  <a href="https://discord.com/users/subasmk">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/subasmk">
-    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://instagram.com/subas_mk">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://linkedin.com/in/subasmk">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://x.com/">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logoColor=white" />
-  </a>
-</p>
-
-
-  <img src="https://komarev.com/ghpvc/?username=Subasmk&style=flat-square&color=blue" alt="Profile Visit"/>
-</div>
-
-<br clear="all" />
-
-
-## 🛠️ Skills
+<!-- ⚡ Typing Animation -->
 <p align="center">
-<table>
-<tr>
-<td width="50%" align="center">
-<h3>💻 Programming Languages</h3>
-
- <img src="https://skillicons.dev/icons?i=html,css,js,python,c,typescript" />
-<br/><br/>
-
-</td>
-
-<td width="50%" align="center">
-   <h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,pandas,flask,numpy" />
-</td>
-
-
-
-</tr>
-<tr>
-<td width="50%" align="center">
-  <h3>🗄️ Databases</h3>
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-<br/><br/>
-
-</td>
-
-<td width="50%" align="center">
-    <h3>🧰 Tools & Platforms</h3>
-    <img src="https://skillicons.dev/icons?i=git,figma,vscode" />
-</td>
-</tr>
-</table>
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FF8C00&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Full+Stack+Developer+in+Progress;LeetCode+Problem+Solver;Building+Projects+That+Matter🚀" />
 </p>
-
-
-
-
-
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=subasmk&theme=dark&hide_border=true" alt="Streak" />
-</div>
-
-
-
-
-## 🚀 My Coding Profiles
 
 ---
-![LeetCode Heatmap](https://leetcard.jacoblin.cool/Subas_mk?theme=dark&ext=activity)
+
+## 👨‍💻 About Me
+
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"/>
+
+- 🎓 AI & DS Student  
+- 💡 Passionate about problem solving & development  
+- 🚀 Building real-world projects  
+- 📈 Focused on consistency & growth  
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://leetcode.com/Subas_mk/">
+    <img src="https://img.shields.io/badge/LeetCode-FF8C00?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="https://github.com/subasmk">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://linkedin.com/in/subasmk">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://instagram.com/subas_mk">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram"/>
+  </a>
+</p>
+
+---
+
+## ⚡ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,python,c,typescript,react,nodejs,express,mongodb,mysql,git,figma,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=subasmk&theme=dark&hide_border=true"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=subasmk&show_icons=true&theme=radical&hide_border=true"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subasmk&layout=compact&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+## 🧠 LeetCode Progress
+
+<p align="center">
+  <a href="https://leetcode.com/Subas_mk/">
+    <img src="https://leetcard.jacoblin.cool/Subas_mk?theme=dark&ext=activity" />
+  </a>
+</p>
+
+---
+
+## 🏆 Achievements (Updating...)
+
+- 🚀 Consistently solving problems on LeetCode  
+- 💻 Building full stack projects  
+- 📈 Improving DSA & development daily  
+
+---
+
+## 🔥 Daily Motivation
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+</p>
+
+---
+
 ## ❤️ Support Me
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/subasmk">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="180"/>
   </a>
 </p>
+
+---
+
+<!-- 🔥 Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F1F,100:FF8C00&height=120&section=footer"/>
