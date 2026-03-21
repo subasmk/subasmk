@@ -82,15 +82,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 </p>
 
----
-
-## ❤️ Support Me
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/subasmk">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="180"/>
-  </a>
-</p>
 
 ---
 
