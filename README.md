@@ -1,156 +1,127 @@
-<!-- 🔥 Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,100:FF5F1F&height=220&section=header&text=Subash%20M&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FF8C00&center=true&vCenter=true&width=850&lines=AI+%26+Data+Science+Student;Building+Real-World+Products+🚀;AWS+%7C+Full+Stack+%7C+DSA;200%2B+LeetCode+Problems+🧠;Turning+Ideas+Into+Technology+⚡" />
-</p>
+# Subash M
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=subasmk&label=Profile%20Views&color=FF8C00&style=for-the-badge" />
-</p>
+**AI & Data Science Student · Builder · Cloud & AI Engineering Enthusiast**
 
----
+[![Typing SVG](https://img.shields.io/badge/Building-Real_Products-FF6B2C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/subasmk)
 
-## 👨‍💻 About Me
+[![Profile Views](https://komarev.com/ghpvc/?username=subasmk&label=Profile%20Views&color=FF6B2C&style=flat-square)](https://github.com/subasmk)
+[![GitHub Followers](https://img.shields.io/github/followers/subasmk?color=FF6B2C&style=flat-square&label=Followers)](https://github.com/subasmk)
 
-<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"/>
-
-I'm **Subash M**, a 2nd-year **Artificial Intelligence & Data Science** student who enjoys solving problems, building products, and connecting ideas from different domains.
-
-- 🎓 B.Tech — Artificial Intelligence & Data Science
-- 🧠 200+ LeetCode problems solved
-- ☁️ Exploring AWS & Cloud Engineering
-- 💻 Building full-stack and mobile applications
-- 🔐 Exploring Linux & Cybersecurity
-- 🏆 Participating in hackathons and open-source projects
-- 🚀 Turning ideas into working products
-
-<br clear="right"/>
+</div>
 
 ---
 
-## ⚡ My Mission
+## About
 
-I don't want to just write code.
+I'm **Subash M**, a 2nd-year **B.Tech Artificial Intelligence & Data Science** student at VSB College. I like turning ideas into working software — the kind that runs on a real server and gets used by someone other than me.
 
-I want to **combine technology, creativity, and problem solving to build products that solve real-world problems.**
+I don't study a topic and move on. I build something with it, break it, fix it, and ship it.
 
-> **Think → Build → Test → Improve → Repeat.**
-
----
-
-## 🔥 What I'm Building
-
-### 📱 TrackMe
-A productivity and habit-tracking application built around consistency, streaks, tasks, widgets, notes, and personal growth.
-
-**Focus:** Flutter • Android • Productivity • Cloud
-
-### 🎯 Skill Land
-A career-guidance concept designed to help students discover suitable paths, understand required skills, and follow practical learning roadmaps.
-
-**Focus:** Education • Career Guidance • Full Stack
+**Currently:** building AI + LLM engineering projects while preparing for placements.
 
 ---
 
-## 🧭 Current Focus
+## Quick Facts
 
-| Area | Learning / Building |
-|---|---|
-| ☁️ Cloud | AWS • EC2 • S3 • Cloud Architecture |
-| 💻 Development | Full Stack • React • APIs |
-| 🧠 DSA | Problem Solving • LeetCode |
-| 🐧 Systems | Linux • Kali Linux |
-| 🗄️ Database | SQL • MySQL |
-| 🤖 AI | AI-powered applications & agents |
+- **Education:** B.Tech — AI & Data Science, VSB College
+- **Focus:** AI Engineering · LLM Engineering · Cloud (AWS) · Backend (Python/FastAPI)
+- **DSA:** 200+ problems solved
+- **Projects:** TrackMe (habit tracker), several full-stack and API projects
+- **Also exploring:** Cybersecurity, Linux internals, Agentic AI workflows
 
 ---
 
-## 🛠️ Tech Stack
+## Current Learning Path
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,typescript,react,nodejs,express,mysql,mongodb,aws,linux,git,github,figma,vscode&perline=7" />
-</p>
+A 60-day structured roadmap covering Python → Linux → Git → Frontend → Backend → Cloud → DevOps → Security → ML → LLM Engineering → AI Agents.
 
----
+| Phase | Focus | Status |
+|-------|-------|--------|
+| 1 | Python, Linux, Git, Networking | 🔄 In progress |
+| 2 | HTML, CSS, JavaScript, TypeScript, React | ⬜ Queued |
+| 3 | FastAPI, REST, Auth, PostgreSQL, Redis | ⬜ Queued |
+| 4 | AWS, Docker, CI/CD, OWASP Security | ⬜ Queued |
+| 5 | NumPy, Pandas, Statistics, ML, Deep Learning | ⬜ Queued |
+| 6 | LLM Fundamentals, RAG, Vector DBs, AI Agents | ⬜ Queued |
 
-## 🏆 Highlights
-
-<p align="center">
-  <img src="https://img.shields.io/badge/200%2B-LeetCode%20Problems-FF8C00?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Learner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Builder-At%20Heart-FF5F1F?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Hackathons-Active-111111?style=for-the-badge"/>
-</p>
+📓 Daily progress journal → [github.com/subasmk/journal](https://github.com/subasmk/journal)
 
 ---
 
-## 🔗 Connect With Me
+## Projects
 
-<p align="center">
-  <a href="https://leetcode.com/Subas_mk/">
-    <img src="https://img.shields.io/badge/LeetCode-FF8C00?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-  <a href="https://github.com/subasmk">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://linkedin.com/in/subasmk">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://instagram.com/subas_mk">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram"/>
-  </a>
-</p>
+### 📱 TrackMe — Habit & Productivity Tracker
+A habit-tracking application built around consistency, streaks, tasks, and widgets. Designed to solve my own consistency problem rather than follow a tutorial.
 
----
+`Flutter` · `Android` · `Cloud Backend`
 
-## 📊 GitHub Analytics
+### 🎯 SkillForge / SkillQuest — Career Path Finder *(Concept)*
+Career-guidance tools that help students figure out which skills map to which career paths, and what order to learn them in.
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=subasmk&theme=dark&hide_border=true"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=subasmk&show_icons=true&theme=radical&hide_border=true"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subasmk&layout=compact&theme=radical&hide_border=true"/>
-</p>
+`Full Stack` · `Education` · `Career Guidance`
+
+### 🤖 LLM Engineering Projects *(In progress)*
+Agent and RAG builds — tool-using agents, retrieval pipelines, and evaluation harnesses.
+
+`Python` · `LLM APIs` · `Vector DBs` · `Docker`
+
+> More projects landing soon — see the [journal repo](https://github.com/subasmk/journal) for build logs.
 
 ---
 
-## 🧠 LeetCode Progress
+## Tech Stack
 
-<p align="center">
-  <a href="https://leetcode.com/Subas_mk/">
-    <img src="https://leetcard.jacoblin.cool/Subas_mk?theme=dark&ext=activity" />
-  </a>
-</p>
+**Languages**
+`Python` · `Java` · `JavaScript` · `TypeScript` · `SQL`
 
----
+**Backend**
+`FastAPI` · `Node.js` · `REST APIs` · `Authentication` · `PostgreSQL` · `Redis`
 
-## 🎯 2026 → Next Level
+**Frontend**
+`React` · `HTML` · `CSS` · `TailwindCSS`
 
-- ☁️ Build production-ready AWS projects
-- 🚀 Ship more real-world applications
-- 🧠 Push my DSA skills further
-- 🤝 Contribute to open source
-- 🏆 Build and compete in more hackathons
-- 🌍 Create technology that can reach real users
+**AI / ML**
+`LLM Engineering` · `RAG` · `Vector Databases` · `PyTorch` · `Scikit-learn` · `Pandas`
 
----
+**Cloud & DevOps**
+`AWS (EC2, S3, Lambda, RDS, VPC)` · `Docker` · `GitHub Actions` · `Linux`
 
-## 💡 My Philosophy
-
-<p align="center">
-  <b>Don't just learn technology.</b><br/>
-  <b>Build with it. Break it. Improve it. Ship it.</b>
-</p>
+**Tools**
+`Git` · `GitHub` · `Vite` · `Postman`
 
 ---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-</p>
+## What I'm After
+
+An **18 LPA role** where I work on real AI/LLM systems in production — not just theory.
+
+Long term: building products that help students figure out career paths and learn the skills that actually get them hired.
 
 ---
 
-<!-- 🔥 Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F1F,100:FF8C00&height=120&section=footer"/>
+## Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subasmk&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subasmk&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## Connect
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FF6B2C?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Subas_mk/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/subasmk)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/subasmk)
+[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/subas_mk)
+
+---
+
+<div align="center">
+<sub>Built with 🧠 curiosity and ☕ too much chai</sub>
+</div>
