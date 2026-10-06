@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=200&section=header&text=Subash%20M&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20and%20Data%20Science%20Student%20-%20Full%20Stack%20-%20GenAI%20-%20Cybersecurity&descAlignY=60&descSize=17" alt="Subash M" width="100%"/>
 
-<a href="https://subasmk.vercel.app"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=2563EB&center=true&vCenter=true&width=700&height=40&lines=Building+AI-powered+apps+that+people+use;Full+stack+%7C+Flutter+%7C+React+%7C+Supabase;Exploring+LLMs%2C+RAG+and+cybersecurity;Learning+in+public%2C+shipping+every+week" alt="Typing intro"/></a>
+<a href="https://subasmk.vercel.app"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=2563EB&center=true&vCenter=true&width=700&height=40&lines=Founder+of+Nientra%2C+tools+for+people+who%27d+rather+do+less;Building+AI-powered+apps+that+people+use;Full+stack+%7C+Flutter+%7C+React+%7C+Supabase;Exploring+LLMs%2C+RAG+and+cybersecurity;Learning+in+public%2C+shipping+every+week" alt="Typing intro"/></a>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-subasmk.vercel.app-2563eb?style=for-the-badge&logo=vercel&logoColor=white)](https://subasmk.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/subasmk)
@@ -23,6 +23,26 @@ I'm a B.Tech student in **AI & Data Science** who learns by building. I pick a s
 | **Building** | AI-powered apps with LLMs and RAG |
 | **Learning** | Cybersecurity, GenAI, cloud |
 | **Strong at** | Full stack web and Flutter apps |
+| **Founder** | [Nientra](https://nientra.vercel.app), a startup building tools for people who'd rather do less |
+
+## Founder at Nientra
+
+<div align="center">
+
+<a href="https://nientra.vercel.app"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:121212,70:121212,100:e63a2e&height=120&section=header&text=NIENTRA&fontSize=46&fontColor=fffdf5&fontAlignY=42&desc=Work%20less.%20Win%20more.&descAlignY=68&descSize=16" alt="Nientra" width="100%"/></a>
+
+</div>
+
+I'm the founder of **[Nientra](https://github.com/Nientra)**, a startup building tools for people who'd rather do less. The name comes from the Italian *niente* (nothing). It is an early-stage project, not a registered company.
+
+| Product | What it does | Link |
+|:--|:--|:--|
+| 📱 **TrackMe** | Habit and quest tracker with streaks and widgets | [Repo](https://github.com/subasmk/Trackme) |
+| 🧠 **Brainvault** | Offline RAG study assistant that answers from your notes | Private |
+| 🎯 **Skill Land** | Skill-building app for students and builders | [Live](https://skill-land.vercel.app) |
+
+[![Nientra](https://img.shields.io/badge/Nientra-nientra.vercel.app-e63a2e?style=for-the-badge&logoColor=white)](https://nientra.vercel.app)
+[![Org](https://img.shields.io/badge/GitHub-Nientra-121212?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nientra)
 
 ## Featured projects
 
