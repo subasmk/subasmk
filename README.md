@@ -6,7 +6,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-subasmk.vercel.app-2563eb?style=for-the-badge&logo=vercel&logoColor=white)](https://subasmk.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/subasmk)
-[![LeetCode](https://img.shields.io/badge/LeetCode-subas__mk-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/subas_mk/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-subasmk-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/subasmk/)
 
 ![Profile views](https://komarev.com/ghpvc/?username=subasmk&label=Profile+views&color=2563eb&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/subasmk?style=flat-square&color=2563eb)
@@ -101,7 +101,7 @@ I'm the founder of **[Nientra](https://github.com/Nientra)**, a startup building
 
 <div align="center">
 
-<a href="https://leetcode.com/u/subas_mk/"><img src="https://leetcard.jacoblin.cool/subas_mk?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" width="80%"/></a>
+<a href="https://leetcode.com/u/subasmk/"><img src="https://leetcard.jacoblin.cool/subasmk?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" width="80%"/></a>
 
 </div>
 
@@ -148,7 +148,7 @@ I share what I build and learn on [LinkedIn](https://linkedin.com/in/subasmk), a
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-2563eb?style=for-the-badge&logo=vercel&logoColor=white)](https://subasmk.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/subasmk)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/subas_mk/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/subasmk/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=100&section=footer" width="100%" alt=""/>
 
