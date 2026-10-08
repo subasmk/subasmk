@@ -10,22 +10,23 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=subasmk&label=Profile+views&color=2563eb&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/subasmk?style=flat-square&color=2563eb)
+![Stars](https://img.shields.io/github/stars/subasmk?style=flat-square&color=2563eb&label=Stars)
 ![Last commit](https://img.shields.io/github/last-commit/subasmk/subasmk?style=flat-square&color=2563eb)
 
 </div>
 
-## About me
+## 👋 About me
 
-I'm a B.Tech student in **AI & Data Science** who learns by building. I pick a skill, make a real project with it, and ship it. So far that means mobile apps, AI-powered web apps and offline retrieval tools.
+I'm a B.Tech student in **AI & Data Science** who learns by building: pick a skill, make a real project with it, ship it. So far that means mobile apps, AI-powered web apps and offline retrieval tools.
 
 | | |
 |:--|:--|
-| **Building** | AI-powered apps with LLMs and RAG |
-| **Learning** | Cybersecurity, GenAI, cloud |
-| **Strong at** | Full stack web and Flutter apps |
-| **Founder** | [Nientra](https://nientra.vercel.app), a startup building tools for people who'd rather do less |
+| 🔨 **Building** | AI-powered apps with LLMs and RAG |
+| 📚 **Learning** | Cybersecurity, GenAI, cloud, AI agents |
+| 💪 **Strong at** | Full stack web and Flutter apps |
+| 🚀 **Founder** | [Nientra](https://nientra.vercel.app), tools for people who'd rather do less |
 
-## Founder at Nientra
+## 🏢 Nientra
 
 <div align="center">
 
@@ -33,27 +34,22 @@ I'm a B.Tech student in **AI & Data Science** who learns by building. I pick a s
 
 </div>
 
-I'm the founder of **[Nientra](https://github.com/Nientra)**, a startup building tools for people who'd rather do less. The name comes from the Italian *niente* (nothing). It is an early-stage project, not a registered company.
+The name comes from the Italian *niente* (nothing). Early-stage project, not a registered company.
 
-| Product | What it does | Link |
-|:--|:--|:--|
-| 📱 **TrackMe** | Habit and quest tracker with streaks and widgets | [Repo](https://github.com/subasmk/Trackme) |
-| 🧠 **Brainvault** | Offline RAG study assistant that answers from your notes | Private |
-| 🎯 **Skill Land** | Skill-building app for students and builders | [Live](https://skill-land.vercel.app) |
-
-[![Nientra](https://img.shields.io/badge/Nientra-nientra.vercel.app-e63a2e?style=for-the-badge&logoColor=white)](https://nientra.vercel.app)
+[![Nientra](https://img.shields.io/badge/Nientra-nientra.vercel.app-e63a2e?style=for-the-badge)](https://nientra.vercel.app)
 [![Org](https://img.shields.io/badge/GitHub-Nientra-121212?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nientra)
 
-## Featured projects
+## 🚀 Featured projects
 
 | Project | What it does | Stack |
 |:--|:--|:--|
 | 📱 **[TrackMe](https://github.com/subasmk/Trackme)** | Habit and quest tracker with streaks, home-screen widgets, profiles and friends | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) |
-| 🎤 **[MockMentor](https://mock-mentor-taupe.vercel.app/)** | AI interviewer: resume-based voice questions, confidence and communication scoring | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![LLM](https://img.shields.io/badge/LLM_APIs-7C3AED?style=flat-square) |
-| 🧠 **Brainvault** *(private)* | Offline RAG study assistant that answers from semester notes | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-0ea5e9?style=flat-square) |
+| 🎤 **[MockMentor](https://mock-mentor-taupe.vercel.app/)** | AI interviewer: resume-based voice questions, confidence and communication scoring ([code](https://github.com/subasmk/MOCK-MENTOR)) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![LLM](https://img.shields.io/badge/LLM_APIs-7C3AED?style=flat-square) |
+| 🧠 **Brainvault** *(private)* | Offline RAG study assistant that answers from your semester notes | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-0ea5e9?style=flat-square) |
+| 🎯 **[Skill Land](https://skill-land.vercel.app)** | Skill-building app for students and builders | ![Web](https://img.shields.io/badge/Web_App-2563eb?style=flat-square) ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white) |
 | 🌐 **[Portfolio](https://subasmk.vercel.app)** | Personal site with projects and skills | ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white) |
 
-## Tech stack
+## 🛠 Tech stack
 
 <div align="center">
 
@@ -82,14 +78,14 @@ I'm the founder of **[Nientra](https://github.com/Nientra)**, a startup building
 
 </details>
 
-## GitHub activity
+## 📊 GitHub activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=subasmk&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subasmk&layout=compact&theme=github_dark&hide_border=true" alt="Top languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=subasmk&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=14400" alt="Stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subasmk&layout=compact&theme=github_dark&hide_border=true&cache_seconds=14400" alt="Top languages"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=subasmk&theme=github-dark&hide_border=true" alt="Streak"/>
+<img src="https://streak-stats.demolab.com/?user=subasmk&theme=github-dark&hide_border=true&border_radius=10" alt="GitHub streak"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=subasmk&theme=github_dark&utcOffset=5.5" alt="Productive time"/>
 
@@ -97,7 +93,7 @@ I'm the founder of **[Nientra](https://github.com/Nientra)**, a startup building
 
 </div>
 
-## LeetCode
+## 🧩 LeetCode
 
 <div align="center">
 
@@ -105,15 +101,14 @@ I'm the founder of **[Nientra](https://github.com/Nientra)**, a startup building
 
 </div>
 
-## Hackathons
+## 🏆 Hackathons
 
 | Event | What I did | Status |
 |:--|:--|:--|
 | **IBM Bob 2.0 Hackathon** (lablab.ai) | Built [MockMentor](https://github.com/subasmk/MOCK-MENTOR) with a teammate using the IBM Bob IDE | Submitted, Sep 2026 |
 | **Smart India Hackathon 2026** | Working on an entry with my team | Participating |
 
-<details>
-<summary><b>What I'm learning next</b></summary>
+## 🎯 Roadmap
 
 - [x] Full stack web apps (React, Node.js)
 - [x] Cross-platform apps (Flutter, Supabase)
@@ -122,27 +117,11 @@ I'm the founder of **[Nientra](https://github.com/Nientra)**, a startup building
 - [ ] Cloud deployment (AWS) and CI/CD
 - [ ] AI agents
 
-</details>
+## ✍️ Writing and updates
 
-## Writing and updates
+I share what I build on [LinkedIn](https://linkedin.com/in/subasmk) and keep build notes in [subasmk/journal](https://github.com/subasmk/journal).
 
-I share what I build and learn on [LinkedIn](https://linkedin.com/in/subasmk), and keep build notes in [subasmk/journal](https://github.com/subasmk/journal).
-
-## Dev quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random dev quote"/>
-
-</div>
-
-## Currently
-
-- Building more AI-powered apps
-- Learning cybersecurity and GenAI
-- Preparing for hackathons and building in public
-
-## Contact
+## 📬 Contact
 
 <div align="center">
 
