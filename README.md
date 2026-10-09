@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=200&section=header&text=Subash%20M&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20and%20Data%20Science%20Student%20-%20Full%20Stack%20-%20GenAI%20-%20Cybersecurity&descAlignY=60&descSize=17" alt="Subash M" width="100%"/>
 
-<a href="https://subasmk.vercel.app"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=2563EB&center=true&vCenter=true&width=700&height=40&lines=Founder+of+Nientra%2C+tools+for+people+who%27d+rather+do+less;Building+AI-powered+apps+that+people+use;Full+stack+%7C+Flutter+%7C+React+%7C+Supabase;Exploring+LLMs%2C+RAG+and+cybersecurity;Learning+in+public%2C+shipping+every+week" alt="Typing intro"/></a>
+<a href="https://subasmk.vercel.app"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=2563EB&center=true&vCenter=true&width=700&height=40&lines= Founder+of+Nientra%2C+tools+for+people+who%27d+rather+do+less;Building+AI-powered+apps+that+people+use;Full+stack+%7C+Flutter+%7C+React+%7C+Supabase;Exploring+LLMs%2C+RAG+and+cybersecurity;Learning+in+public%2C+shipping+every+week" alt="Typing intro"/></a>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-subasmk.vercel.app-2563eb?style=for-the-badge&logo=vercel&logoColor=white)](https://subasmk.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/subasmk)
